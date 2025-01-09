@@ -1,4 +1,4 @@
-import VideoPlayer from './videoplayer.js';
+import VideoPlayer from './VideoPlayer.js';
 import WebSocketClient from './WebSocketClient.js';
 let videoPlayer;
 document.addEventListener("DOMContentLoaded", () => {
